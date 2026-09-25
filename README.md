@@ -1,2 +1,3 @@
-# VR_IPS
-Unity projects for the VR interpersonal space tasks used in “Altered Interpersonal Space in Social Anxiety: A Computational Study in Virtual Reality”
+# VR Interpersonal Space Tasks
+
+This repository contains the Unity projects for the virtual reality (VR) tasks used in the research article "Altered Interpersonal Space in Social Anxiety: A Computational Study in Virtual Reality."
